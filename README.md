@@ -65,4 +65,12 @@ A comprehensive collection of LeetCode solutions for coding interview preparatio
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
