@@ -60,6 +60,7 @@ A comprehensive collection of LeetCode solutions for coding interview preparatio
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0010-regular-expression-matching) |
 | [1189-maximum-number-of-balloons](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -79,4 +80,12 @@ A comprehensive collection of LeetCode solutions for coding interview preparatio
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
