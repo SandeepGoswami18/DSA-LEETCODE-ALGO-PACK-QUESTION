@@ -69,8 +69,14 @@ A comprehensive collection of LeetCode solutions for coding interview preparatio
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SandeepGoswami18/DSA-LEETCODE-ALGO-PACK-QUESTION/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
